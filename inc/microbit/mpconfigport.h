@@ -99,6 +99,7 @@
 #define MICROPY_PY_UTIME_MP_HAL     (1)
 #define MICROPY_PY_MACHINE          (1)
 #define MICROPY_PY_MACHINE_PULSE    (1)
+#define MICROPY_PY_FRAMEBUF         (1)
 
 // extra built in names to add to the global namespace
 #define MICROPY_PORT_BUILTINS \
